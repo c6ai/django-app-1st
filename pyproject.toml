@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-sample-app"
+name = "django-app-1st"
 version = "0.1.0"
 description = "Learn how to integrate Descope authentication in Django by building a Quillbot clone. "
 authors = ["Descope <info@descope.com>"]

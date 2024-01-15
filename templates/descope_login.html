@@ -3,7 +3,7 @@
 {% load descope %} 
 
 {% block content %}
-  <h1 class="title">Django Sample App</h1>
+  <h1 class="title">django-app-1st</h1>
   {% if user.is_authenticated %}
     <a class="home-btn" href={% url 'admin:index' %}>📊 &nbsp; Admin <span class="arrow">&#8594;</span></a>
     <a class="home-btn" href="{% url 'summary' %}">✏️ &nbsp; Text Summarizer <span class="arrow">&#8594;</span></a>

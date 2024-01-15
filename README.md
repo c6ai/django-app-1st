@@ -1,6 +1,6 @@
-![django](https://github.com/descope-sample-apps/django-sample-app/assets/59460685/866222d2-437e-4f46-8d92-243ff9bd2d1c)
+![django](https://github.com/c6ai/django-app-1st/assets/59460685/866222d2-437e-4f46-8d92-243ff9bd2d1c)
 
-# Descope Django Sample App
+# Descope django-app-1st
 
 Learn how to integrate Descope authentication in Django by building a Quillbot clone. 
 
@@ -9,7 +9,7 @@ Learn how to integrate Descope authentication in Django by building a Quillbot c
 1. Clone the repository:
 
 ```
-git clone https://github.com/descope-sample-apps/django-sample-app.git
+git clone https://github.com/c6ai/django-app-1st.git
 ```
 
 2. Install dependencies:
