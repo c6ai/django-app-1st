@@ -2,7 +2,7 @@
 
 # Descope django-app-1st
 
-Learn how to integrate Descope authentication in Django. 
+## integrate Descope authentication in Django. 
 
 ## ⚙️ Setup 
 
