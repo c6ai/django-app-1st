@@ -2,7 +2,7 @@
 
 # Descope django-app-1st
 
-Learn how to integrate Descope authentication in Django by building a Quillbot clone. 
+Learn how to integrate Descope authentication in Django. 
 
 ## ⚙️ Setup 
 
